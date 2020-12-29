@@ -1,3 +1,3 @@
 # learning_case
 
-Author - Sumanta Basak
+Author: Sumanta Basak
